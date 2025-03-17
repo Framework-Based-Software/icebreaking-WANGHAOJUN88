@@ -5,6 +5,7 @@ I expect to learn a lot about modern software maintenance practices and how to w
 
 
 ![My Image](WHJ.jpg)  <!-- Link to the uploaded image -->
++ ![My Image](WHJ.jpg)<!-- Link to the uploaded image -->
 
 ## GitHub Profile
 You can view my personalized GitHub profile https://github.com/WANGHAOJUN88
