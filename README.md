@@ -4,7 +4,7 @@ Hi! I'm WANG HAOJUN, a student in the Framework-Based Software Design and Develo
 I expect to learn a lot about modern software maintenance practices and how to work with legacy systems. This is the first time I'm studying in an English-speaking enwviroment,I will study hard to meet challenge.
 
 
-![My Image](20250.jpg)  <!-- Link to the uploaded image -->
+![My Image](WHJ.jpg)  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 You can view my personalized GitHub profile https://github.com/WANGHAOJUN88
